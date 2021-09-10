@@ -1,8 +1,8 @@
-- 🔭 I’m currently working on ... Comptia cloud +
-- 🌱 I’m currently learning ... Haskell
-- 👯 I’m looking to collaborate on ... Haskell
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Mail] daviddefrenne@hotmail.be
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I'm making cosplays atm
+- 🔭 I’m currently working on Comptia cloud +.
+- 🌱 I’m currently learning Haskell.
+- 👯 I’m looking to collaborate on anything I want to learn.
+- 🤔 I’m looking for help with anything.
+- 💬 Ask me about anything
+- 📫 How to reach me: daviddefrenne@hotmail.be
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm making cosplays atm
