@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **daviddefrenne@hotmail.be**
 
-- ⚡ Fun fact **I'm making cosplays atm**
 
 
 <h3 align="left">Languages and Tools:</h3>
