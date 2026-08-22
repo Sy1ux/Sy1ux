@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Defrenne</h1>
-<h3 align="center">A passionate cybersecurity apprentice</h3>
+<h3 align="center">A passionate Digital Marketer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sy1ux&label=Profile%20views&color=0e75b6&style=flat" alt="sy1ux" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **A crypto crowdfunding platform**
+- 🔭 I’m currently working on **A  mandarin keyboard app**
 
-- 🌱 I’m currently learning **Haskell , Splunk power user**
+- 🌱 I’m currently learning **Mandarin**
 
-- 👯 I’m looking to collaborate on **Anything blue team related**
+- 👯 I’m looking to collaborate on **Digital Marketing related**
 
-- 🤝 I’m looking for help with **finding a Soc analyst internship**
+- 🤝 I’m looking for help with **Finding new BD ideas and ad campaign strategies**
 
-- 💬 Ask me about **Anything crypto related**
+- 💬 Ask me about **Anything crypto adjacent**
 
 - 📫 How to reach me **daviddefrenne@hotmail.be**
 
