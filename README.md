@@ -19,6 +19,12 @@
 
 - 📫 How to reach me **daviddefrenne@hotmail.be**
 
+### 🚀 Current Projects
+
+- 🀄 [Chinese Keyboard (Pinyin IME)](https://github.com/Sy1ux/KeyboardPinyin) — Android Pinyin input method keyboard app
+- 🎬 [Chinese Playlist Translate Tool](https://github.com/Sy1ux/chinese-playlist-translate-tool) — translates Chinese playlist/transcript content into study-friendly resources
+- ♟️ [Chess Tutor Study](https://github.com/Sy1ux/chess-tutor-study) — chess training and analysis with study chapters and line review
+
 
 
 <h3 align="left">Languages and Tools:</h3>
