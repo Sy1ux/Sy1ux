@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mandarin**
 
-- 👯 I’m looking to collaborate on **Digital Marketing related**
+- 👯 I’m looking to collaborate on **anything Digital Marketing related**
 
 - 🤝 I’m looking for help with **Finding new BD ideas and ad campaign strategies**
 
