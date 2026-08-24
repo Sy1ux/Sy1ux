@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **anything Digital Marketing related**
 
-- 🤝 I’m looking for help with **Finding new BD ideas and ad campaign strategies**
+- 🤝 I’m looking for help with **finding new BD ideas and ad campaign strategies**
 
-- 💬 Ask me about **Anything crypto adjacent**
+- 💬 Ask me about **anything crypto adjacent**
 
 - 📫 How to reach me **daviddefrenne@hotmail.be**
 
